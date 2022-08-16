@@ -12,9 +12,9 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Usage
 
 Screeshot of Horiseon website of SEO and ORM sections.
-    ```md
-    ![Horiseon website screenshot](assets/images/readme%20screenshot.png)
-    ```
+
+    ![Horiseon website screenshot](./assets/images/readmescreenshot.png)
+
 
 ## Credits
 
